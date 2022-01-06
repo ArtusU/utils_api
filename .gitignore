@@ -56,3 +56,4 @@ api_keys.txt
 .env
 
 notebook.cfg
+config.py
